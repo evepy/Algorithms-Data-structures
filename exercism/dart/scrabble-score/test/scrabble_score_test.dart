@@ -1,11 +1,12 @@
-import 'package:scrabble_score/scrabble_score.dart';
 import 'package:test/test.dart';
+import 'package:scrabble_score/scrabble_score.dart';
 
 void main() {
   group('ScrabbleScore', () {
     test('lowercase letter', () {
       final result = score('a');
       expect(result, equals(1));
+      //EL SKIP ES PARA PROBAR EL CODIGO CON ESTOS TIPOS DE TEST
     }, skip: false);
 
     test('uppercase letter', () {
