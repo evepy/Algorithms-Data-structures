@@ -278,7 +278,10 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-10-27T13:19:17.201188Z",
+  "generated": "2024-05-05T21:31:16.309001Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0-94.0.dev"
+  "generatorVersion": "3.5.0-5.0.dev",
+  "flutterRoot": "file:///C:/src/flutter",
+  "flutterVersion": "3.22.0-1.0.pre.35",
+  "pubCache": "file:///C:/Users/eve74/AppData/Local/Pub/Cache"
 }
